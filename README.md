@@ -132,7 +132,7 @@ Obtiene todas las reviews asociadas a un usuario.
 ## 🛠️ Tecnologías
 
 - OpenAPI 3.0.1
-- Spring Boot (supuesto backend)
+- Spring Boot
 - JWT para autenticación
 - RESTful API design
 
@@ -142,5 +142,5 @@ Obtiene todas las reviews asociadas a un usuario.
 
 Para dudas o sugerencias, por favor contacta al desarrollador del proyecto.
 
----
+--- jose.videsbaron@gmail.com - https://videstech.netlify.app/
 
